@@ -1,0 +1,2 @@
+Initial content for log.txt
+Temporary commit content for 2017-03-05T15:20:11
